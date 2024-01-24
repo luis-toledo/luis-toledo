@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://github.com/luis-toledo/luis-toledo/blob/f128e502c13040f6ca69a41376f6f679ce76b0e8/profile.png"/>
+<img align="right" height="480em" src="https://github.com/luis-toledo/luis-toledo/blob/f128e502c13040f6ca69a41376f6f679ce76b0e8/profile.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Luís Fernando</h1>
 
 - 🔥 Desenvolvedor de Software
