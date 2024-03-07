@@ -3,9 +3,9 @@
 
 - 🔥 Desenvolvedor de Software
 
-- 🔭 Trabalho atualmente na [UFR](https://ufr.edu.br/), [DiligenceHub](https://www.diligencehub.com.br/) e [myjourney](https://myjourney.com.br/) 
+- 🔭 Trabalho atualmente na [DiligenceHub](https://www.diligencehub.com.br/) e [SoftSul](https://www.linkedin.com/in/softsulsistemas/?originalSubdomain=br) 
 
-- 💬 Tecnologias mais usadas **JavaScript, Typescript, React, NestJS, SQL, Node.JS, Flutter**
+- 💬 Tecnologias mais usadas **JavaScript, Typescript, React, NestJS, SQL, Node.JS, Flutter, Laravel**
 
 - 👨‍💻 Mais sobre mim em [LinkedIn](https://www.linkedin.com/in/luisfernandotoledo/)
 
