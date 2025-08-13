@@ -3,7 +3,7 @@
 
 - 🔥 Desenvolvedor de Software
 
-- 🔭 Trabalho atualmente na [DiligenceHub](https://www.diligencehub.com.br/) e [SoftSul](https://www.linkedin.com/in/softsulsistemas/?originalSubdomain=br) 
+- 🔭 Trabalho atualmente na [DiligenceHub](https://www.diligencehub.com.br/)
 
 - 💬 Tecnologias mais usadas **JavaScript, Typescript, React, NestJS, SQL, Node.JS, Flutter, Laravel**
 
